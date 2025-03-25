@@ -1,0 +1,4 @@
+store_key|store_manager|store_street_addr|store_town|store_zip_code|store_phone_num|store_state
+5|Margi Yogeshkumar Thakar|123 Main St|Wilmington|19801|555-1234|DE
+6|Eric Toal|456 Elm St|Carneys Point|08069|555-5678|NJ
+7|Jaydev Parmar|789 Oak St|Chester|19013|555-4321|PA
