@@ -1,0 +1,3 @@
+source|definition
+1|Categories automatically assigned by product_canonicalizer.py.
+2|Categories manually assigned by Eric Toal.
