@@ -142,7 +142,6 @@ def is_delivery_day(current_day: dt.date) -> bool:
 
             
 if __name__ == "__main__":
-    rand.seed(42)
     products = pd.read_csv(r"Products1.txt", sep='|', encoding='ISO-8859-1')
     products['BasePrice'] = products['BasePrice'].str.replace('$', '', regex=False).astype(float)
     products['itemType'] = products['itemType'].fillna('Missing')
